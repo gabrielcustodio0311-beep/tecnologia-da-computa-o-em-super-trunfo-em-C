@@ -8,4 +8,4 @@ printf("o numero maior é: %d",maior);
 
 return 0
 
-o Resultado é : num2 40 
+o Resultado é : num2 60

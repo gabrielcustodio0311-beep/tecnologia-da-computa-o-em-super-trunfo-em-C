@@ -1,0 +1,7 @@
+int main (){
+int idade - 16;
+int resultado;
+
+Idade> ? printf("Você e maior de idade!./n") : printf("Você e menor de idade./N")
+
+RESULTADO E VOCÊ E MENOR DE IDADE 

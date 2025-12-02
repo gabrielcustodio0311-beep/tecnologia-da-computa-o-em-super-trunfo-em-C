@@ -1,0 +1,15 @@
+int main(){
+int temperatura = 26;
+int resultado;
+
+Resultado - temperatura > 30 ? 1 : 0;
+
+if (resultado -- 1 ) {
+printf ("Está calor!./n");
+}else{
+printf("Está frio!./n");
+
+{
+
+
+Resultado está frio / Resultado está frio
